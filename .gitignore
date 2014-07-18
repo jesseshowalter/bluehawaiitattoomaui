@@ -1,7 +1,11 @@
 /backups
+/assets/components
+/assets/galleries
+/assets/uploads
 /connectors
 /core
 /manager
+/setup
 index.php
 config.inc.php
 ht.access
