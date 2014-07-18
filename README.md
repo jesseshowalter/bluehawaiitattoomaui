@@ -1,4 +1,4 @@
 bluehawaiitattoomaui
 ====================
 
-The website files for blue hawaii tattoo maui
+The website files for http://www.bluehawaiitattoomaui.com
