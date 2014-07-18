@@ -1,2 +1,8 @@
 /backups
+/connectors
+/core
+/manager
+index.php
 config.inc.php
+ht.access
+.htaccess
